@@ -1,0 +1,72 @@
+# Markets
+
+Here is a list of markets for 2D/3D assets.
+
+Websites for 3D and 2D Game Assets
+
+## [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace)
+    Description: The official marketplace for Unreal Engine assets, offering a wide range of 3D models, environments, animations, blueprints, sound effects, and more. Includes both free and paid options.
+
+## [CGTrader](https://www.cgtrader.com/)
+    Description: A large marketplace for 3D models, including characters, vehicles, and environments, compatible with Unreal Engine. Offers both free and paid models.
+
+## TurboSquid
+    Description: One of the largest libraries of 3D models online, with a mix of free and premium assets compatible with Unreal Engine.
+
+## Sketchfab
+    Description: A platform for sharing and selling 3D models, offering many free and premium assets that support various formats, including those compatible with Unreal Engine.
+
+## OpenGameArt
+    Description: A community-driven site offering a wide range of free 3D and 2D assets, including models, sprites, textures, and sound effects, suitable for indie and open-source game development.
+
+## PolyHaven
+    Description: Provides high-quality, free 3D models, textures, and HDRIs, all available under a CC0 license, making them free for any use, including in Unreal Engine.
+
+### Unity Asset Store
+    Description: Primarily for Unity, but many assets are available in formats compatible with Unreal Engine, such as FBX and OBJ. Offers a wide range of 3D models, textures, and other game assets.
+
+### Blender Market
+    Description: A marketplace for Blender users, offering 3D models, textures, and scripts, with many assets that can be exported in formats compatible with Unreal Engine.
+
+### Quixel Megascans
+    Description: A vast library of high-quality 3D assets, textures, and materials. Unreal Engine users can access these assets for free due to Epic Games' acquisition of Quixel.
+
+### BlenderKit
+
+    Description: Offers a library of free and paid 3D assets and materials, available as a plugin for Blender but exportable in formats compatible with Unreal Engine.
+
+### Itch.io
+
+    Description: A popular platform for indie game developers, offering a vast selection of 2D game assets, including sprites, tilesets, backgrounds, UI elements, and more. Both free and paid assets are available.
+
+### Kenney.nl
+
+    Description: Offers a large collection of free 2D assets, including sprites, tilesets, UI elements, and more, known for their high quality and utility in game development.
+
+### GameDev Market
+
+    Description: A marketplace for game assets, offering both 2D and 3D resources. Includes characters, environments, tilesets, icons, and more, with both free and paid options.
+
+### CraftPix
+
+    Description: Provides high-quality 2D game assets, including sprites, tilesets, GUI elements, and more, with a mix of free and premium options.
+
+### GraphicRiver
+
+    Description: Part of the Envato Market, offering a wide range of 2D game assets like character sprites, backgrounds, UI elements, and icons. Most assets are premium.
+
+### Humble Bundle
+
+    Description: Often features game asset bundles, including 2D assets, at discounted prices. Not always available, but worth checking for valuable bundles.
+
+### SpriteLand
+
+    Description: Offers free sprites and graphics for game development, including characters, tiles, and icons suitable for various game genres.
+
+### Game Art Partners
+
+    Description: A marketplace specializing in game art, including 2D assets like character sprites, backgrounds, and other essential elements. Includes both free and paid options.
+
+### Vecteezy
+
+    Description: Provides a massive library of vector art, including game assets like icons, characters, and backgrounds. Many assets are free, and the vector format is easily scalable for different resolutions.
