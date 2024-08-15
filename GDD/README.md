@@ -9,10 +9,12 @@ Generaly, GDD also tries to answer these four important questions:
 * How will the game run? -> the tech
 * How will the game be made? -> bussines
 
+-----
 
 ## Structure
 
 GDD has no standard structure, you should mold its shape based on your project.
 the basic and recommended structre shown below. adapt it and put some work in its development.
 
------
+* Summary
+    * Characters
