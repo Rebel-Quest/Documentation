@@ -3,7 +3,7 @@
 GDD is a document that tries to define and clarify your Game.
 it should contain all the details about you game including technical and non technical topics.
 
-Generaly, GDD also tries to answer these four important questions:
+In general, GDD tries to answer these four important questions:
 * How does the game play? -> the gameplay
 * How does the game look? -> the art
 * How will the game run? -> the tech
@@ -18,3 +18,5 @@ the basic and recommended structre shown below. adapt it and put some work in it
 
 * Summary
     * Characters
+    * Story
+    * Narrative
