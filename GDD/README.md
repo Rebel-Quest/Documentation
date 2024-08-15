@@ -56,4 +56,3 @@ the basic and recommended structre shown below. adapt it and put some work in it
     * Community
 
 * Development Plan
-    * 
