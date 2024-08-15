@@ -58,6 +58,6 @@ Post-Launch Support: Plan for post-launch updates based on player feedback, whic
 
 Using Unreal Engine 5 for a 2D game gives you the flexibility to experiment with complex mechanics and high-quality visuals.
 
-
+<br />
 > this document will be updated and for each step I will upload proper documentation.
 >>>> Rebel Quest
