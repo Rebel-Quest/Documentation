@@ -13,6 +13,6 @@ Generaly, GDD also tries to answer these four important questions:
 ## Structure
 
 GDD has no standard structure, you should mold its shape based on your project.
-the basic and recommended structre shown below, adapt it and put some work in its development.
+the basic and recommended structre shown below. adapt it and put some work in its development.
 
-(---)
+-----
