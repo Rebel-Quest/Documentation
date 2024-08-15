@@ -9,25 +9,25 @@ till then, Adios 🚶🏽‍♂️‍➡️
 
 ## Short answer:
 
-Define your game idea.
+* Define your game idea.
 
-Research game concepts for inspiration.
+* Research game concepts for inspiration.
 
-Create game design documents.
+* Create game design documents.
 
-Choose a game engine and tools.
+* Choose a game engine and tools.
 
-Implement a version control system.
+* Implement a version control system.
 
-Execute gameplay mechanics.
+* Execute gameplay mechanics.
 
-Improve AI interactions.
+* Improve AI interactions.
 
-Improve graphics, sound, and voice overs.
+* Improve graphics, sound, and voice overs.
 
-Enhance your user interface.
-
-Use alpha and beta testing.
+* Enhance your user interface.
+  
+* Use alpha and beta testing.
 
 ## Long answer
 
