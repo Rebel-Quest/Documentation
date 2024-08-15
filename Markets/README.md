@@ -84,8 +84,8 @@ Offers free sprites and graphics for game development, including characters, til
 
 ### [Game Art Partners](https://gameartpartners.com/)
 A marketplace specializing in game art, including 2D assets like character sprites, backgrounds, and other essential elements. Includes both free and paid options.
-<br />
 
+<br />
 
 ### [Vecteezy](https://www.vecteezy.com/)
 Provides a massive library of vector art, including game assets like icons, characters, and backgrounds. Many assets are free, and the vector format is easily scalable for different resolutions.
