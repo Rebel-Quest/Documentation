@@ -11,7 +11,7 @@ How to Download:
 * If it fits your needs, click the "Download" button.
 Website: FreeSound.org
 
-## ZapSplat
+## [ZapSplat](https://freesound.org/)
 
 ZapSplat offers a large collection of free and premium sound effects. The free sounds are high-quality and cover a wide range of categories.
 
