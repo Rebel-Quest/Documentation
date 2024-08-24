@@ -5,10 +5,10 @@ This document provides a list of online resources for sound effects, sound track
 
 Description: FreeSound is a collaborative database of Creative Commons-licensed sound effects. You can search for sounds, listen to previews, and download them for free.
 How to Download:
-    Create a free account.
-    Search for the sound you need using keywords.
-    Click on the sound file to preview it.
-    If it fits your needs, click the "Download" button.
+    * Create a free account.
+    * Search for the sound you need using keywords.
+    * Click on the sound file to preview it.
+    * If it fits your needs, click the "Download" button.
 Website: FreeSound.org
 
 ## ZapSplat
